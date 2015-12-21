@@ -1,0 +1,28 @@
+name: Tyler Anderson Design
+favicon: null
+layout_spectrum: 0.7976641948334873
+typography_spectrum: 0.5684809549711645
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.805029409006238
+  lightness: 0.3473177731502801
+  saturation: 0.5341703537851572
+  rhythmicContrast: 0.8834492994938046
+purpose: []
